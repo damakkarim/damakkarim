@@ -1,150 +1,245 @@
-<div align="center">
+# Karim Damak
 
-# Karim DAMAK
-### Data Engineer · ML Engineer · AI Developer
+**ML Engineer · Data Engineer · AI Developer**
 
-*Building data, machine learning and GenAI applications with Python*
+> Computer Science Engineer & Master's graduate in Intelligent Systems and Applications.  
+> I build data-driven applications, machine learning solutions and production-ready GenAI systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimdamak/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damakkarim)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dammakkarim@gmail.com)
-![France](https://img.shields.io/badge/📍_France-blue?style=for-the-badge)
+📍 France · 💼 Open to CDI opportunities
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/karimdamak/) ·
+[GitHub](https://github.com/damakkarim) ·
+[Email](mailto:dammakkarim@gmail.com)
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-Computer Science Engineer and Master's graduate in **Intelligent Systems & Applications**, with experience in **Data Engineering, Machine Learning and Generative AI**.
+I enjoy building practical solutions at the intersection of:
 
-I build production-oriented solutions around **data, ML, LLM/RAG applications and APIs**, from data preparation to deployment and industrialization.
+- 🧠 Machine Learning & Artificial Intelligence
+- 🤖 LLMs, RAG & AI Agents
+- 📊 Data Engineering & Analytics
+- 🐍 Python backend development
+- ⚙️ MLOps & production systems
 
-I'm particularly interested in projects combining **Python, data, AI and software engineering**.
+My experience covers the complete path from **data preparation and model development to APIs, deployment and monitoring**.
 
-🎯 Currently looking for a **CDI opportunity in Data Engineering, ML Engineering or AI Engineering** in France.
+I have worked on projects in **AgriTech, telecommunications, forecasting and Generative AI**, with a strong focus on turning technical solutions into useful applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Development & Data
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### 🤖 Machine Learning & GenAI
+### Data Engineering
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### ⚡ APIs & Applications
+### Machine Learning
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-### ☁️ Cloud, MLOps & DevOps
+### Generative AI
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-000000?style=flat-square)
 
-### 📊 Data & Visualization
+### Backend & APIs
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+
+### MLOps & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
+
+### 🌱 Precision Agriculture — Data & AI
+
+Data Science and AI solutions applied to **precision agriculture**.
+
+Working with spectrometric data, agricultural datasets and Machine Learning models to support agronomic analysis and decision-making.
+
+**Highlights**
+
+- Processing and analysis of spectrometric data
+- Agricultural and soil data preparation
+- Machine Learning model development
+- Feature engineering and model optimization
+- FastAPI services for ML workflows
+- RAG system for agricultural documents and knowledge
+- Docker-based deployment
+- CI/CD with GitHub Actions
+
+`Python` `Machine Learning` `FastAPI` `LangChain` `ChromaDB` `Docker`
+
+---
 
 ### 🤖 RAG & AI Agents
 
-Building applications based on **LangChain, LangGraph, ChromaDB and LLMs**, including RAG pipelines and agentic workflows with tool calling and memory.
+Development of **LLM-powered applications** using retrieval-augmented generation and agentic workflows.
 
-`Python` `LangChain` `LangGraph` `RAG` `ChromaDB` `LLMs`
+**Focus**
 
----
+- Retrieval-Augmented Generation
+- Semantic search
+- Agent workflows
+- Tool calling
+- Vector databases
+- LLM integration
+- API-based AI applications
 
-### 🌱 AgriTech — Data & AI
-
-Data Science and AI applied to **precision agriculture**.
-
-- Analysis of spectrometric data from agricultural sensors.
-- Data preparation and processing for agricultural and soil analysis.
-- Machine Learning models for prediction and analysis.
-- Development of tools helping transform model outputs into useful insights for agricultural decision-making.
-
-`Python` `Machine Learning` `Data Science` `Spectral Analysis` `FastAPI`
-
----
-
-### 📄 Production RAG & APIs
-
-Development of RAG applications using **LangChain and ChromaDB**, exposed through FastAPI services.
-
-- Semantic search over documents.
-- LLM integration.
-- REST APIs with authentication.
-- Docker containerization.
-- CI/CD with GitHub Actions.
-
-`FastAPI` `LangChain` `ChromaDB` `Docker` `GitHub Actions`
+`LangChain` `LangGraph` `RAG` `ChromaDB` `LLMs`
 
 ---
 
 ### 📈 Forecasting & Data Engineering
 
-Development of a forecasting solution for petroleum product demand.
+Development of a forecasting solution for **petroleum product demand**.
 
-- Time-series data preparation and transformation.
-- Comparison of ARIMA, Prophet and LSTM models.
-- Data processing on **Google Cloud Platform**.
-- REST API for prediction integration.
-- Power BI dashboards for monitoring indicators and alerts.
+**Highlights**
+
+- Time-series data preparation
+- ARIMA, Prophet and LSTM experimentation
+- Data processing on Google Cloud Platform
+- REST API integration
+- Prediction services
+- Power BI dashboards and monitoring
 
 `Python` `GCP` `SQL` `Machine Learning` `Power BI`
 
 ---
 
+### 📞 NLP & AI — Orange
+
+Development of an NLP solution for processing and analysing operational emails.
+
+**Highlights**
+
+- NLP data processing pipeline
+- Text preprocessing and transformation
+- Machine Learning experimentation
+- MLflow experiment tracking
+- Django REST API
+- PostgreSQL
+- Docker
+
+`Python` `NLP` `MLflow` `Django` `PostgreSQL` `Docker`
+
+---
+
 ## 💼 Professional Experience
 
-| Period | Position | Company |
-|---|---|---|
-| 2025 | Data Scientist & AI Engineer | Senseen |
-| 2024 | Data Scientist | Orange |
-| 2024 | Data Scientist / ML Developer | PGS |
-| 2023 | Software Engineer | Tunisie Telecom |
+### Data Scientist & AI Engineer — Senseen
+
+**2025 · Valbonne, France**
+
+AgriTech platform focused on spectrometric data analysis and agronomic decision support.
+
+- Data processing pipelines for spectrometric scans
+- Machine Learning and feature engineering
+- FastAPI REST services
+- RAG with LangChain and ChromaDB
+- Docker & GitHub Actions
+- Data and AI solutions for agricultural use cases
+
+---
+
+### Data Scientist — Orange
+
+**2024 · Tunis, Tunisia**
+
+- NLP pipeline for operational emails
+- Data preparation and transformation
+- Django REST API
+- MLflow experiment tracking
+- PostgreSQL & Docker
+
+---
+
+### Data Scientist / ML Developer — PGS
+
+**2024 · Tunis, Tunisia**
+
+- Time-series data preparation
+- ARIMA, Prophet and LSTM models
+- Data processing on GCP
+- REST API development
+- Power BI dashboards
+
+---
+
+### Software Engineer — Tunisie Telecom
+
+**2023 · Tunis, Tunisia**
+
+- Django and PostgreSQL dashboard
+- Python data processing
+- Automated technical tasks with Python and Bash
+- Access control and data management
 
 ---
 
 ## 🎓 Education
 
-**Master's Degree — Intelligent Systems & Applications**  
-Université Gustave Eiffel · 2024–2025
+### Master's Degree — Intelligent Systems & Applications
 
-**Computer Science Engineering Degree**  
-ESPRIT · 2020–2025
+**Université Gustave Eiffel**  
+2024 – 2025
+
+Double-degree program with ESPRIT.
+
+---
+
+### Computer Science Engineering Degree
+
+**ESPRIT**  
+2020 – 2025
+
+Specialization in Data Science and Artificial Intelligence.
+
+---
+
+## 🏆 Certification
+
+**Building Transformer-Based Natural Language Processing Applications**  
+NVIDIA Deep Learning Institute · 2024
 
 ---
 
 ## 🌍 Languages
 
-🇫🇷 French · 🇬🇧 English · 🇹🇳 Arabic · 🇩🇪 German (basic)
+🇫🇷 **French** — Professional  
+🇬🇧 **English** — Professional  
+🇹🇳 **Arabic** — Native  
+🇩🇪 **German** — Basic
 
 ---
 
@@ -152,20 +247,40 @@ ESPRIT · 2020–2025
 
 <div align="center">
 
-![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damakkarim&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=damakkarim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damakkarim&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damakkarim&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+## 📈 GitHub Activity
+
 <div align="center">
 
-### 💼 Open to CDI opportunities in Data & AI
-
-**Data Engineer · ML Engineer · AI Engineer · Python Developer**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimdamak/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=damakkarim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🎯 Currently
+
+```text
+Looking for
+├── Data Engineer
+├── ML Engineer
+├── AI Engineer
+└── Python Developer
+
+Interested in
+├── Generative AI
+├── LLM / RAG
+├── AI Agents
+├── Machine Learning
+├── Data Engineering
+└── MLOps
+
+Location
+└── France
