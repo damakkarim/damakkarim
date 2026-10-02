@@ -241,27 +241,6 @@ NVIDIA Deep Learning Institute · 2024
 🇹🇳 **Arabic** — Native  
 🇩🇪 **German** — Basic
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=damakkarim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damakkarim&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=damakkarim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
